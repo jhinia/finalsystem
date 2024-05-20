@@ -1,0 +1,62 @@
+C:\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\Kissbone_Cove system.exe.config
+C:\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\Kissbone_Cove system.exe
+C:\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\Kissbone_Cove system.pdb
+C:\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove system.csproj.AssemblyReference.cache
+C:\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove system.csproj.SuggestedBindingRedirects.cache
+C:\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove_system.Form1.resources
+C:\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove_system.Properties.Resources.resources
+C:\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove system.csproj.GenerateResource.cache
+C:\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove system.csproj.CoreCompileInputs.cache
+C:\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove system.exe
+C:\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove system.pdb
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\Kissbone_Cove system.exe.config
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\Kissbone_Cove system.exe
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\Kissbone_Cove system.pdb
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove system.csproj.AssemblyReference.cache
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove_system.AddCostumer.resources
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove_system.AddRoom.resources
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove_system.CostumerList.resources
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove_system.CreateUsers.resources
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove_system.Form1.resources
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove_system.DailyUpdate.resources
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove_system.Mainform.resources
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove_system.Properties.Resources.resources
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove_system.RoomList.resources
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove system.csproj.GenerateResource.cache
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove system.csproj.CoreCompileInputs.cache
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove system.exe
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone_Cove system.pdb
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\BouncyCastle.Cryptography.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\Google.Protobuf.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\K4os.Compression.LZ4.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\K4os.Hash.xxHash.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\MySql.Data.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.Buffers.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.IO.Pipelines.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.Memory.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.Numerics.Vectors.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\ZstdSharp.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\BouncyCastle.Cryptography.xml
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\Google.Protobuf.pdb
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\Google.Protobuf.xml
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\K4os.Compression.LZ4.xml
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\K4os.Hash.xxHash.xml
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\MySql.Data.xml
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.Buffers.xml
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.IO.Pipelines.xml
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.Memory.xml
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.Numerics.Vectors.xml
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\obj\Debug\Kissbone.DF1AEDE6.Up2Date
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\Newtonsoft.Json.dll
+C:\2nd Year Activities\2nd Sem\saligue_emman\Final Project-nj\Final Project-nj\Kissbone_Cove system\Kissbone_Cove system\bin\Debug\Newtonsoft.Json.xml

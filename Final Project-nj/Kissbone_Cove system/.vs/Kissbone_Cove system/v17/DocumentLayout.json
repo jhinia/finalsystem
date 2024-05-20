@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{734D020B-80A4-4078-9C51-C6B9A29FF11D}|Kissbone_Cove system\\Kissbone_Cove system.csproj|c:\\2nd year activities\\2nd sem\\saligue_emman\\final project-nj\\final project-nj\\kissbone_cove system\\kissbone_cove system\\costumerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{734D020B-80A4-4078-9C51-C6B9A29FF11D}|Kissbone_Cove system\\Kissbone_Cove system.csproj|solutionrelative:kissbone_cove system\\costumerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734D020B-80A4-4078-9C51-C6B9A29FF11D}|Kissbone_Cove system\\Kissbone_Cove system.csproj|c:\\2nd year activities\\2nd sem\\saligue_emman\\final project-nj\\final project-nj\\kissbone_cove system\\kissbone_cove system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734D020B-80A4-4078-9C51-C6B9A29FF11D}|Kissbone_Cove system\\Kissbone_Cove system.csproj|solutionrelative:kissbone_cove system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734D020B-80A4-4078-9C51-C6B9A29FF11D}|Kissbone_Cove system\\Kissbone_Cove system.csproj|c:\\2nd year activities\\2nd sem\\saligue_emman\\final project-nj\\final project-nj\\kissbone_cove system\\kissbone_cove system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{734D020B-80A4-4078-9C51-C6B9A29FF11D}|Kissbone_Cove system\\Kissbone_Cove system.csproj|solutionrelative:kissbone_cove system\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734D020B-80A4-4078-9C51-C6B9A29FF11D}|Kissbone_Cove system\\Kissbone_Cove system.csproj|c:\\2nd year activities\\2nd sem\\saligue_emman\\final project-nj\\final project-nj\\kissbone_cove system\\kissbone_cove system\\addcostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734D020B-80A4-4078-9C51-C6B9A29FF11D}|Kissbone_Cove system\\Kissbone_Cove system.csproj|solutionrelative:kissbone_cove system\\addcostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734D020B-80A4-4078-9C51-C6B9A29FF11D}|Kissbone_Cove system\\Kissbone_Cove system.csproj|c:\\2nd year activities\\2nd sem\\saligue_emman\\final project-nj\\final project-nj\\kissbone_cove system\\kissbone_cove system\\addcostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{734D020B-80A4-4078-9C51-C6B9A29FF11D}|Kissbone_Cove system\\Kissbone_Cove system.csproj|solutionrelative:kissbone_cove system\\addcostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734D020B-80A4-4078-9C51-C6B9A29FF11D}|Kissbone_Cove system\\Kissbone_Cove system.csproj|c:\\2nd year activities\\2nd sem\\saligue_emman\\final project-nj\\final project-nj\\kissbone_cove system\\kissbone_cove system\\datachecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734D020B-80A4-4078-9C51-C6B9A29FF11D}|Kissbone_Cove system\\Kissbone_Cove system.csproj|solutionrelative:kissbone_cove system\\datachecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734D020B-80A4-4078-9C51-C6B9A29FF11D}|Kissbone_Cove system\\Kissbone_Cove system.csproj|C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\kissbone_cove system\\dailyupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{734D020B-80A4-4078-9C51-C6B9A29FF11D}|Kissbone_Cove system\\Kissbone_Cove system.csproj|solutionrelative:kissbone_cove system\\dailyupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CostumerList.cs [Design]",
+              "DocumentMoniker": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\Kissbone_Cove system\\CostumerList.cs",
+              "RelativeDocumentMoniker": "Kissbone_Cove system\\CostumerList.cs",
+              "ToolTip": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\Kissbone_Cove system\\CostumerList.cs [Design]",
+              "RelativeToolTip": "Kissbone_Cove system\\CostumerList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:47:21.074Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mainform.cs",
+              "DocumentMoniker": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\Kissbone_Cove system\\Mainform.cs",
+              "RelativeDocumentMoniker": "Kissbone_Cove system\\Mainform.cs",
+              "ToolTip": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\Kissbone_Cove system\\Mainform.cs",
+              "RelativeToolTip": "Kissbone_Cove system\\Mainform.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAjwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:59:59.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mainform.cs [Design]",
+              "DocumentMoniker": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\Kissbone_Cove system\\Mainform.cs",
+              "RelativeDocumentMoniker": "Kissbone_Cove system\\Mainform.cs",
+              "ToolTip": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\Kissbone_Cove system\\Mainform.cs [Design]",
+              "RelativeToolTip": "Kissbone_Cove system\\Mainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:59:21.311Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataChecker.cs",
+              "DocumentMoniker": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\Kissbone_Cove system\\DataChecker.cs",
+              "RelativeDocumentMoniker": "Kissbone_Cove system\\DataChecker.cs",
+              "ToolTip": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\Kissbone_Cove system\\DataChecker.cs",
+              "RelativeToolTip": "Kissbone_Cove system\\DataChecker.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwDcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:44:54.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddCostumer.cs [Design]",
+              "DocumentMoniker": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\Kissbone_Cove system\\AddCostumer.cs",
+              "RelativeDocumentMoniker": "Kissbone_Cove system\\AddCostumer.cs",
+              "ToolTip": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\Kissbone_Cove system\\AddCostumer.cs [Design]",
+              "RelativeToolTip": "Kissbone_Cove system\\AddCostumer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:42:48.466Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DailyUpdate.cs [Design]",
+              "DocumentMoniker": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\Kissbone_Cove system\\DailyUpdate.cs",
+              "RelativeDocumentMoniker": "Kissbone_Cove system\\DailyUpdate.cs",
+              "ToolTip": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\Kissbone_Cove system\\DailyUpdate.cs [Design]",
+              "RelativeToolTip": "Kissbone_Cove system\\DailyUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:22:46.599Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCostumer.cs",
+              "DocumentMoniker": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\Kissbone_Cove system\\AddCostumer.cs",
+              "RelativeDocumentMoniker": "Kissbone_Cove system\\AddCostumer.cs",
+              "ToolTip": "C:\\2nd Year Activities\\2nd Sem\\saligue_emman\\Final Project-nj\\Final Project-nj\\Kissbone_Cove system\\Kissbone_Cove system\\AddCostumer.cs",
+              "RelativeToolTip": "Kissbone_Cove system\\AddCostumer.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:16:28.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
